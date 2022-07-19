@@ -244,12 +244,58 @@
           null,
           1,
           1,
+          null,
+          1,
           null
         ]
       },
       "/Users/bensilverstein/turing/2Module/ic/dark-dream-4209/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/bensilverstein/turing/2Module/ic/dark-dream-4209/spec/features/ingredients/show_spec.rb": {
+        "lines": [
+
+        ]
+      },
+      "/Users/bensilverstein/turing/2Module/ic/dark-dream-4209/spec/features/recipes/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -288,6 +334,28 @@
           1,
           1,
           null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -305,6 +373,21 @@
           2,
           2,
           null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -316,6 +399,10 @@
           null,
           1,
           1,
+          null,
+          1,
+          13,
+          null,
           null
         ]
       },
@@ -362,6 +449,23 @@
           2,
           2,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -374,6 +478,30 @@
           null,
           1,
           1,
+          null,
+          1,
+          12,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/bensilverstein/turing/2Module/ic/dark-dream-4209/app/controllers/ingredients_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/bensilverstein/turing/2Module/ic/dark-dream-4209/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
           null
         ]
       },
@@ -385,18 +513,12 @@
           null,
           null,
           1,
-          2,
+          3,
           null,
-          null
-        ]
-      },
-      "/Users/bensilverstein/turing/2Module/ic/dark-dream-4209/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
           null
         ]
       }
     },
-    "timestamp": 1658236929
+    "timestamp": 1658239893
   }
 }
