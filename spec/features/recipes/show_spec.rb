@@ -24,5 +24,11 @@ RSpec.describe 'recipe show page' do
     expect(page).to have_content("Pasta")
     expect(page).to have_content("Tomato")
     expect(page).to have_no_content("Cream")
+
+    visit "/recipe/#{fettucini.id}"
+
+    expect(page).to have_content("Pasta")
+    expect(page).to have_content("Cream")
+    expect(page).to have_no_content("Tomato")
   end
 end
